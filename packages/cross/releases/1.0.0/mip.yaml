@@ -1,0 +1,11 @@
+name: cross
+description: "Test package with cross-channel FQN dependency (test-channel2)"
+version: "1.0.0"
+license: MIT
+dependencies: [mip-org/test-channel1/alpha]
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]

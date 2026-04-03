@@ -1,0 +1,11 @@
+name: beta
+description: "Test package beta (test-channel2)"
+version: "1.0.0"
+license: MIT
+dependencies: []
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]
