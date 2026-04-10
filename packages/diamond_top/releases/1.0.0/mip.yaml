@@ -1,0 +1,11 @@
+name: diamond_top
+description: "Top of diamond dependency graph (test-channel2)"
+version: "1.0.0"
+license: MIT
+dependencies: [mip-org/test-channel2/diamond_left, mip-org/test-channel2/diamond_right]
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]

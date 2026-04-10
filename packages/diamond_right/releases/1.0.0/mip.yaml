@@ -1,0 +1,11 @@
+name: diamond_right
+description: "Right branch of diamond dependency graph, depends on beta (test-channel2)"
+version: "1.0.0"
+license: MIT
+dependencies: [mip-org/test-channel2/beta]
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]

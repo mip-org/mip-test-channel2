@@ -1,0 +1,11 @@
+name: multi_dep
+description: "Package with dependencies from multiple channels (test-channel2)"
+version: "1.0.0"
+license: MIT
+dependencies: [mip-org/test-channel1/alpha, mip-org/test-channel2/beta]
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]
