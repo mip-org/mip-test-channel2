@@ -1,61 +1,61 @@
 {
-  "generated": "2026-07-17T08:32:16Z",
+  "generated": "2026-07-18T08:14:51Z",
   "repo": "mip-org/mip-test-channel2",
-  "total_lifetime_downloads": 2221,
+  "total_lifetime_downloads": 2228,
   "assets": {
     "beta-1.0.0/beta-1.0.0-any.mhl": {
-      "lifetime": 321,
+      "lifetime": 322,
       "base": 0,
-      "last_raw": 321,
+      "last_raw": 322,
       "asset_id": 462232145,
       "created_at": "2026-06-30T14:32:11Z",
       "first_seen": "2026-07-01T10:27:41Z",
-      "updated": "2026-07-17T08:32:16Z"
+      "updated": "2026-07-18T08:14:51Z"
     },
     "cross-1.0.0/cross-1.0.0-any.mhl": {
-      "lifetime": 317,
+      "lifetime": 318,
       "base": 0,
-      "last_raw": 317,
+      "last_raw": 318,
       "asset_id": 462232366,
       "created_at": "2026-06-30T14:32:28Z",
       "first_seen": "2026-07-01T10:27:41Z",
-      "updated": "2026-07-17T08:32:16Z"
+      "updated": "2026-07-18T08:14:51Z"
     },
     "diamond_left-1.0.0/diamond_left-1.0.0-any.mhl": {
-      "lifetime": 316,
-      "base": 0,
-      "last_raw": 316,
-      "asset_id": 462232307,
-      "created_at": "2026-06-30T14:32:22Z",
-      "first_seen": "2026-07-01T10:27:41Z",
-      "updated": "2026-07-17T08:32:16Z"
-    },
-    "diamond_right-1.0.0/diamond_right-1.0.0-any.mhl": {
       "lifetime": 317,
       "base": 0,
       "last_raw": 317,
+      "asset_id": 462232307,
+      "created_at": "2026-06-30T14:32:22Z",
+      "first_seen": "2026-07-01T10:27:41Z",
+      "updated": "2026-07-18T08:14:51Z"
+    },
+    "diamond_right-1.0.0/diamond_right-1.0.0-any.mhl": {
+      "lifetime": 318,
+      "base": 0,
+      "last_raw": 318,
       "asset_id": 462231650,
       "created_at": "2026-06-30T14:31:40Z",
       "first_seen": "2026-07-01T10:27:41Z",
-      "updated": "2026-07-17T08:32:16Z"
+      "updated": "2026-07-18T08:14:51Z"
     },
     "diamond_top-1.0.0/diamond_top-1.0.0-any.mhl": {
-      "lifetime": 316,
+      "lifetime": 317,
       "base": 0,
-      "last_raw": 316,
+      "last_raw": 317,
       "asset_id": 462232150,
       "created_at": "2026-06-30T14:32:12Z",
       "first_seen": "2026-07-01T10:27:41Z",
-      "updated": "2026-07-17T08:32:16Z"
+      "updated": "2026-07-18T08:14:51Z"
     },
     "multi_dep-1.0.0/multi_dep-1.0.0-any.mhl": {
-      "lifetime": 316,
+      "lifetime": 317,
       "base": 0,
-      "last_raw": 316,
+      "last_raw": 317,
       "asset_id": 462231798,
       "created_at": "2026-06-30T14:31:53Z",
       "first_seen": "2026-07-01T10:27:41Z",
-      "updated": "2026-07-17T08:32:16Z"
+      "updated": "2026-07-18T08:14:51Z"
     },
     "shared-1.0.0/shared-1.0.0-any.mhl": {
       "lifetime": 0,
@@ -64,16 +64,16 @@
       "asset_id": 462233413,
       "created_at": "2026-06-30T14:33:44Z",
       "first_seen": "2026-07-01T10:27:41Z",
-      "updated": "2026-07-17T08:32:16Z"
+      "updated": "2026-07-18T08:14:51Z"
     },
     "shared-2.0.0/shared-2.0.0-any.mhl": {
-      "lifetime": 318,
+      "lifetime": 319,
       "base": 0,
-      "last_raw": 318,
+      "last_raw": 319,
       "asset_id": 462231726,
       "created_at": "2026-06-30T14:31:47Z",
       "first_seen": "2026-07-01T10:27:41Z",
-      "updated": "2026-07-17T08:32:16Z"
+      "updated": "2026-07-18T08:14:51Z"
     }
   }
 }
